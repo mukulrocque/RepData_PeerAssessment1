@@ -1,3 +1,5 @@
+NOTE: It is assumed that the input data is present in the working directory in the filename "activity.csv"
+
 ## Introduction
 
 It is now possible to collect a large amount of data about personal
